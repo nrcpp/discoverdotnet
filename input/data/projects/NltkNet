@@ -1,0 +1,16 @@
+Source: https://github.com/nrcpp/NltkNet
+NuGet:
+  - https://www.nuget.org/packages/NltkNet/
+Language: C#
+Image: https://i.ibb.co/CtfNJy6/icon.png
+Title: NltkNet
+Description: C# wrapper for most popular NLP library - NLTK
+Tags:
+  - nltk
+  - nlp
+  - parser
+  - tokenizer
+  - categorizer
+  - POS
+  - chunker
+  - IronPython
